@@ -1,1 +1,6 @@
 teste:
+function texto()
+{
+  return;
+  }
+
