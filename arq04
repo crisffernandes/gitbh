@@ -1,7 +1,8 @@
 
 # comentario teste 1
 
-int a,b, d;
+
+int a,b,c, d;
 a = 5;
 b = 3
 if (a>b)
@@ -9,3 +10,7 @@ if (a>b)
 else 
    Console.WriteLine('B é maior que A');
 d = a+b;
+c = a+b;
+
+
+
