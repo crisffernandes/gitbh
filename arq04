@@ -1,11 +1,13 @@
 
 # comentario teste 1
 
-int a,b;
+int a,b,c;
 a = 5;
 b = 3
 if (a>b)
    Console.WriteLine('A é maior que B');
 else 
    Console.WriteLine('B é maior que A');
+c = a+b;
+
 
